@@ -13,7 +13,7 @@ Welcome to a Game of Sticks!
 
 Console.WriteLine($"{welcome}");
 Console.WriteLine("Here are the rules:");
-Console.WriteLine("Players will take turns choosing at least 1 and\nno more than 3of the remaining sticks until the sticks are gone.\nThe player that takes the last stick loses.");
+Console.WriteLine("Players will take turns choosing at least 1 and\nno more than 3 of the remaining sticks until the sticks are gone.\nThe player that takes the last stick loses.");
 Console.WriteLine();
 Console.WriteLine("Press any key to continue:");
 Console.ReadKey(true);
